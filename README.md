@@ -44,4 +44,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-wilsonlavrador-blue?style=flat-square&logo=Linkedin&logoColor=white&link=wilson-lavrador)](https://www.linkedin.com/in/wilson-lavrador/)
 [![Gmail Badge](https://img.shields.io/badge/-wilsonmlavrador@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilsonmlavrador@gmail.com)](mailto:wilsonmlavrador@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/wmlavrador)
+[![GitHub](https://img.shields.io/github/followers/wmlavrador?label=follow&style=social)](https://github.com/wmlavrador)
